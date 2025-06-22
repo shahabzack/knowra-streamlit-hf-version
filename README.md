@@ -42,7 +42,7 @@ For the full-featured version (FastAPI backend + client), advanced configuration
 ## 🚀 Live Demo (Streamlit + Hugging Face)
 
 This version is hosted on Hugging Face Spaces using **Streamlit** for the frontend. It’s optimized for free-tier deployment and quick PDF interactions.
-
+👉 [Try Knowra on Hugging Face](https://huggingface.co/spaces/sh4hebx/knowra-rag-chat)
 ---
 
 ## 👤 Connect with Me
