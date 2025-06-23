@@ -47,7 +47,7 @@ This version is hosted on Hugging Face Spaces using **Streamlit** for the fronte
 
 ## 👤 Connect with Me
 
-Created by [Shahab Zack](https://shahabzack.github.io/Ds_portfolio/)  
+Created by [Muhammed Shaheb ](https://shahabzack.github.io/muhammed-shaheb-portfolio/)  
 Feel free to connect, collaborate, or share feedback!
 
 ---
